@@ -1,0 +1,21 @@
+
+
+header{
+	background-image: url(images/macphoto.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+nav{
+	background-color: #e03145;
+}
+
+nav .ro .col:hover{
+	background-color: #ff6d7e;
+}
+
+img{
+	width: 100%;
+}
+
